@@ -1,13 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Sample Test</title>
-	</head>
-	<body>
-		<h1 style="color:red;">My First Paragraph</h1>
-		<p>Hye I am writing my first paragraph in sublime text 3.I am learning web designing.</p>
-		<h2 style="color:red;">My Second Paragraph</h2>
-		<p>Introducing yourself can be one of the interesting as well as the most tricky task in itself. We all are unique and writing about ourselves is an essential aspect to discover our qualities more reliably. Discovering our qualities helps us a lot to know about ourselves. It is an essential element of building up one’s personality. Although, sharing them with the world is a matter of capability.</p>
-	</body>
-	</html>
+	<meta charset="utf-8">
+	<title>Orderd List</title>
+</head>
+<body>
+	<h1 style="color:Red;">Ordered List</h1>
+<div>
 
+	Essay on My Self
+<ul>
+	<li>Introduction
+		<ul style="color:Blue;">
+			<li>Name</li>
+			<li>Fathers's Name</li>
+			<li>Address</li>
+			<li>Contact No.</li>
+		</ul>
+		</li>
+	<li>Educational Background
+		<ul style="color:Blue;">
+			<li>Primary School</li>
+			<li>Middle School</li>
+			<li>High School</li>
+			<li>College</li>
+			<li>University</li>
+		</ul>
+		</li>
+	<li>Skills
+		<ul style="color:Blue;">
+			<li>MS Office</li>
+			<li>Graphic Designing</li>
+			<li>Video Editing</li>
+		</ul>
+		</li>
+</ul><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Orderd List</title>
+</head>
+<body>
+	<h1 style="color:Red;">Ordered List</h1>
+<div>
+
+	Essay on My Self
+<ul>
+	<li>Introduction
+		<ul style="color:Blue;">
+			<li>Name</li>
+			<li>Fathers's Name</li>
+			<li>Address</li>
+			<li>Contact No.</li>
+		</ul>
+		</li>
+	<li>Educational Background
+		<ul style="color:Blue;">
+			<li>Primary School</li>
+			<li>Middle School</li>
+			<li>High School</li>
+			<li>College</li>
+			<li>University</li>
+		</ul>
+		</li>
+	<li>Skills
+		<ul style="color:Blue;">
+			<li>MS Office</li>
+			<li>Graphic Designing</li>
+			<li>Video Editing</li>
+		</ul>
+		</li>
+</ul>
