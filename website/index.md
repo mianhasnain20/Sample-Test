@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Orderd List</title>
+	<title>Essay</title>
 </head>
 <body>
-	<h1 style="color:Red;">Ordered List</h1>
+	<h1 style="color:Red;">My Self</h1>
 <div>
 
-	Essay on My Self
+		Table of Content
 <ul>
 	<li>Introduction
 		<ul style="color:Blue;">
