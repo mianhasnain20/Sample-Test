@@ -3,6 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<title>Essay</title>
+<style> {
+	color:White;
+	Backgroungd-color:Black;
+}
+</style>
 </head>
 <body>
 	<h1 style="color:Red;">My Self</h1>
@@ -12,26 +17,26 @@
 <ul>
 	<li>Introduction
 		<ul style="color:Blue;">
-			<li>Name</li>
-			<li>Fathers's Name</li>
-			<li>Address</li>
-			<li>Contact No.</li>
+			<li><button>Name</button></li>
+			<li><button>Fathers's Name</button></li>
+			<li><button>Address</button></li>
+			<li><button>Contact No.</button></li>
 		</ul>
 		</li>
 	<li>Educational Background
 		<ul style="color:Blue;">
-			<li>Primary School</li>
-			<li>Middle School</li>
-			<li>High School</li>
-			<li>College</li>
-			<li>University</li>
+			<li><button>Primary School</button></li>
+			<li><button>Middle School</button></li>
+			<li><button>High School</button></li>
+			<li><button>College</button></li>
+			<li><button>University</button></li>
 		</ul>
 		</li>
 	<li>Skills
 		<ul style="color:Blue;">
-			<li>MS Office</li>
-			<li>Graphic Designing</li>
-			<li>Video Editing</li>
+			<li><button>MS Office</button></li>
+			<li><button>Graphic Designing</button></li>
+			<li><button>Video Editing</button></li>
 		</ul>
 		</li>
 </ul>
@@ -42,4 +47,12 @@
 <br>The other aspect is, that it is not affordable for the poor or low middle-class the category in which I consider myself. if students like me are given some financial assistance, then it will be a great opportunity for them to get an education from the best university. I am a bona fide student and a hard worker also. I got 433/500 in grade 5, 457/500 in grade 8 in the PEC examination.<br>
 <br>Keeping my financial background, my hard work in mind, and being hopeful for a bright future after studying at COMSATS I think I am eligible for a NOP scholarship, and I should give myself this chance. I submit the following facts for your kind consideration regarding my eligibility and hope for the best.<br>
 <br>Salam!<br>
-
+<address>
+	<h4>Contact Information</h4>
+	<pre>
+	Mian Hasnain Ali
+	Email us at <a href="mianhasnain20@gmail.com">mianhasnain20@gmail.com</a>
+	Phone No. +923127408770
+	Chack No.89 Imam-pur Nakoder Tehsil Shahkot
+</pre>
+</address>
