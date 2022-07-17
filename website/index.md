@@ -53,12 +53,7 @@
 	<pre>
 	Mian Hasnain Ali
 	Email us at: <a href="mianhasnain20@gmail.com">mianhasnain20@gmail.com</a>
-	Phone No. +923127408770
+	Phone No. +92-3127408770
 	Chack No.89 Imam-pur Nakoder Tehsil Shahkot
 </pre>
 </address>
-<h3><strong>Enjoy my faviroute song.....</strong></h3>
-		<video width="500" height="300" controls>
-		<source src="https://www.youtube.com/watch?v=7lfFZs50JHM" type="video/mp4">
-</video>
-<p>This song is copy copyright by T-series.
