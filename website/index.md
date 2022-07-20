@@ -45,11 +45,11 @@
 <br>Salam!<br>
 </p>
 </body>
-<address>
+<address style="background: lightpink;">
 	<h4>Contact Information</h4>
 	<pre>
 	Mian Hasnain Ali
-	Email us at: <a href="mianhasnain20@gmail.com">mianhasnain20@gmail.com</a>
+	Email us at: <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">mianhasnain20@gmail.com</a>
 	Phone No. +92-3127408770
 	Chack No.89 Imam-pur Nakoder Tehsil Shahkot
 </pre>
