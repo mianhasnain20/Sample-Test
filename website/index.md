@@ -5,30 +5,37 @@
 	<title>Three Column Design</title>
 <style>
 div {
-	background-color:#00ffff;
+	/background-color:#00ffff/;
+	text-align: justify;
 }
 p {
 	width : 50%;
-	border : 1px solid black;
-	float : Left
+	/border : 1px solid black;/
+	padding: 10;
+	margin: 2px;
 }
 
 #p1 {
-		background-color: #40E0D0;
+		/*background-color: #40E0D0;*/
+		float : right;
+		clear: left;
 	}
 #p2 {
-		background-color: #6495ED
+		/*background-color: #6495ED;*/
+		clear: right;
 	}
 #p3 {
-		background-color: #CCCCFF
+		/*background-color: #CCCCFF;*/
+		float: right;
+		clear: right;
 	}
 section {
-	clear : left;
+	clear : right;
 }
 </style>
 </head>
 <body>
-<h2 style="text-align:center;color:red;">Three Column Design</h2>
+<h2 style="text-align: center; color:red;">Three Column Design</h2>
 
 <div>
 		<p id="p1">The people of Punjab are high-spirited. All these people are free thinkers. They are the soft-spoken people living in the heart of Pakistan who celebrate every event with great enthusiasm. They have a lot of fun.</p>
@@ -39,7 +46,7 @@ section {
 <section>
 <pre>
 This is copyright &copy content just put there to test my skills.
-Thanks....
+Thanks...
 </pre>
 </section>
 <div>
