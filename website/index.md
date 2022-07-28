@@ -6,7 +6,7 @@
 </head>
 <body>
 	<h1 style="color:Red;">My Self</h1>
-<img src="https://scontent.flyp3-1.fna.fbcdn.net/v/t39.30808-6/287128133_1152531938860631_1091236606950837861_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHTB_2fIKadnQmakbnqGXM6zweG4rH4WinPB4bisfhaKd9BUjXcaz_DwX-Y5iUBNUxqrlR4__Jcmj9r5QLF3Sp-&_nc_ohc=RnyxFAqNgjAAX9VuA9C&_nc_ht=scontent.flyp3-1.fna&oh=00_AT_JM7VFG1SxsRhvjKNT5XlmdfCtuxU2nYcsluPpYPJBOw&oe=62D8F7DE" alt="Mian Hasnain Ali" height="500" width="400">
+<img src="https://scontent.flyp3-1.fna.fbcdn.net/v/t39.30808-6/287128133_1152531938860631_1091236606950837861_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHTB_2fIKadnQmakbnqGXM6zweG4rH4WinPB4bisfhaKd9BUjXcaz_DwX-Y5iUBNUxqrlR4__Jcmj9r5QLF3Sp-&_nc_ohc=RnyxFAqNgjAAX9VuA9C&_nc_ht=scontent.flyp3-1.fna&oh=00_AT_JM7VFG1SxsRhvjKNT5XlmdfCtuxU2nYcsluPpYPJBOw&oe=62D8F7DE" alt="Mian Hasnain Ali" height="400" width="300">
 <div>
 		Table of Content
 </div>
